@@ -65,7 +65,7 @@ The dataset contains student information with the following columns:
 ## Results (Example)
 
 ### Regression
-- Predicted scores for new students: `[78, 85, 92]`  
+- Predicted scores for new students: `[15.6, 17.1, 19.2]`  
 - R² ≈ 0.99  
 - MAE ≈ 2.5  
 
